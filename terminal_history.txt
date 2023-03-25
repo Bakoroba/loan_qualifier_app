@@ -23,3 +23,24 @@
    23  git commit -m "Updated app.py accoridng to the Challengre requirements"
    24  git push
    25  history 50 > terminal_history.txt
+   26  git status
+   27  git add .
+   28  git commit -m "Printed the command history"
+   29  git push
+   30  git status
+   31  git status
+   32  git add .
+   33  git commit -m "First updates to the README.md""
+   34  git commit -m "Made first updates to the README.md"
+   35  git push
+   36  git status
+   37  git status
+   38  git add .
+   39  git commit -m "Updated app.py save_csv function"
+   40  git push
+   41  git status
+   42  git add .
+   43  git commit -m "Updated app.py and README.md"
+   44  git push
+   45  history 50
+   46  history 50 >terminal_history.txt 
