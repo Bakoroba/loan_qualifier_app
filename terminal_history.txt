@@ -1,0 +1,19 @@
+    1  conda activate dev
+    2  cd "~/Desktop/FinTech/Bootcamp/Challenge/Module2/Starter_Code/loan_qualifier_app"
+    3  cd "C:\Users\bakar\Desktop\FinTech\Bootcamp\Challenge\Module2\Starter_Code"
+    4  cd loan_qualifier_app/
+    5  ls -l
+    6  git init
+    7  git add .
+    8  git commit -m "first commit"
+    9  git branch -M main
+   10  git remote add origin git@github.com:Bakoroba/loan_qualifier_app.git
+   11  git status
+   12  git push -u origin main
+   13  code .
+   14  history 
+   15  pip install fire
+   16  pip install questionary
+   17  code .
+   18  history 50
+   19  history 50 >terminal_history.txt
