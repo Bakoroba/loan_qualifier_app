@@ -21,14 +21,13 @@ The technologies used are:
 2. Git
 3. Githib
 4. Visual Studio
-5. Software modules..
-    ⋅⋅* credit_score.py..
-    ⋅⋅* debt_to_income.py..
-    ⋅⋅* loan_to_value.py..
-    ⋅⋅* max_loan_size.py..
-    ⋅⋅* calculators.py..
-    ⋅⋅* fileio.py..
-
+5. Software modules
+    -credit_score.py
+    -debt_to_income.py
+    -loan_to_value.py
+    -max_loan_size.py
+    -calculators.py
+    -fileio.py
 ---
 The following Python modules need to be  installed if not already installed:
 ⋅⋅* File
