@@ -122,7 +122,6 @@ def save_qualifying_loans(qualifying_loans):
 def save_csv(qualifying_loans):
     #variable to store the output_fcsvfile_name 
     output_csvfile_name = questionary.text("Please enter a file path and file name for the qualifiyng loans (for exapmple data/myfile.csv)").ask()
-    #qualifying_loans_csvfile = save_csv()
     qualifying_loans_csvfile = Path(output_csvfile_name)
     with open(qualifying_loans_csvfile,"w",newline="") as savecsvfile:
         csvwriter=csv.writer(savecsvfile)
