@@ -17,3 +17,9 @@
    17  code .
    18  history 50
    19  history 50 >terminal_history.txt
+   20  git status
+   21  git status
+   22  git add .
+   23  git commit -m "Updated app.py accoridng to the Challengre requirements"
+   24  git push
+   25  history 50 > terminal_history.txt
